@@ -1,0 +1,15 @@
+{
+  "name": "web-front-skelton",
+  "version": "0.0.0",
+  "authors": [
+    "shinya takahashi <s.takahashi313@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
