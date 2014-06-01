@@ -1,3 +1,11 @@
+.DS_Store
+*.zip
+*.tar.gz
+tags
+database.yml
+*.log
+**/*.swp
+
 bower_components
 node_modules
 .sass-cache
