@@ -19,7 +19,7 @@ module.exports = (grunt) ->
             "app/**/*.coffee"
           ]
         options:
-          transform: ["coffeeify", "brfs", "uglifyify"]
+          transform: ["coffeeify", "partialify", "uglifyify"]
 
       spec:
         files:

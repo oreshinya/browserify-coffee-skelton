@@ -1,7 +1,5 @@
-fs = require 'fs'
-
 Vue.component "hoge",
-  template: fs.readFileSync "#{__dirname}/views/hoge.html", "utf8"
+  template: require "./views/hoge.html"
 
 $ ->
   app = new Vue

@@ -9,7 +9,6 @@
   "author": "shinya takahashi <s.takahashi313@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "brfs": "^1.1.1",
     "browserify": "^4.1.6",
     "chai": "^1.9.1",
     "coffeeify": "^0.6.0",
@@ -26,6 +25,7 @@
     "karma-sinon-chai": "^0.1.6",
     "karma-spec-reporter": "0.0.13",
     "mocha": "^1.20.0",
+    "partialify": "^3.1.1",
     "sinon": "^1.10.1",
     "uglifyify": "^2.4.0"
   }
