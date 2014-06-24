@@ -1,5 +1,3 @@
-development base for web front
-
 #Project Setup
 ```
 npm install -g grunt-cli
